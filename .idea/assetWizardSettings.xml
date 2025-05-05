@@ -118,7 +118,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="4fa6fd" />
+                                      <entry key="backgroundColor" value="ffffff" />
                                       <entry key="showGrid" value="true" />
                                     </map>
                                   </option>
