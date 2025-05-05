@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="expense_detail">Detail</string>
+    <string name="expense_spend">Spend</string>
+    <string name="expense_category">Category</string>
+    <string name="expense_date">Date</string>
+    <string name="expand_button_content_description">More or less information about a category.</string>
+    <string name="euro_sign">€</string>
+    <string name="enter_data">Enter modules, grades and the associated weight (in ECTS)\n</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="add">Add</string>
+    <string name="back_button">Back</string>
+    <string name="reset">Reset</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="my_expenses">My Expense:</string>
+    <string name="spend_amount">Amount spent</string>
+    <string name="select_category">Choose a category..</string>
+    <string name="dropdown_menu_description">Toggle dropdown</string>
+    <string name="date_format">YYYY-MM-DD</string>
+    <string name="amount_format">e.g. 0.0</string>
+    <string name="previous_month">display spend in the previous month</string>
+    <string name="next_month">display spend in the next month</string>
+    <string name="no_expenses_warning">No expenses added in this month yet!</string>
+    <string name="total">Total:</string>
+    <string name="dialog_delete">Delete Expense</string>
+    <string name="dialog_delete_title">Delete the expense?</string>
+    <string name="dialog_delete_text">Are you sure you want to delete the expense? \nDelete is permanent!</string>
+    <string name="error_dialog">Add expense error</string>
+    <string name="dialog_error_text">Expense format invalid!</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="dialog_error_detail_title">Invalid expense detail</string>
+    <string name="dialog_error_detail_text">Please make sure details is not empty</string>
+    <string name="dialog_error_date_title">Invalid date</string>
+    <string name="dialog_error_date_text">Please make sure date is in the format of YYYY-MM-DD and is a valid date</string>
+    <string name="dialog_error_spend_title">Invalid amount spent</string>
+    <string name="dialog_error_spend_text">Please make sure the amount spent is not zero or a negative number</string>
+    <string name="dialog_error_detail">Expense Detail Error</string>
+    <string name="dialog_error_date">Expense Date Error</string>
+    <string name="dialog_error_spend">Expense Spend Error</string>
+    <string name="dialog_error_category">Expense Category Error</string>
+    <string name="dialog_error_category_title">Invalid category</string>
+    <string name="dialog_error_category_text">Please select a category for the expense</string>
+
+
+</resources>
